@@ -1,2 +1,2 @@
 language: csharp
-solution: .\WpfApplication1.sln
+solution: ./WpfApplication1.sln
